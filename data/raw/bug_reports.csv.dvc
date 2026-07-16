@@ -1,0 +1,5 @@
+outs:
+- md5: 85b3acea2eaa336be3ef5579b2ac7739
+  size: 6762115
+  hash: md5
+  path: bug_reports.csv
